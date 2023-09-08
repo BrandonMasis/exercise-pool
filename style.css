@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(54, 53, 53);
+
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1 {
+    color: #555555;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.exercise-box {
+    background-color: #007BFF;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    display: inline-block;
+}
